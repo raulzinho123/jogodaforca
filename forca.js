@@ -24,7 +24,6 @@ function inserirLetra() {
             }
             atualizarPalavraOculta();
         } else {
-            // Implemente o desenho da forca ou outras ações de jogo aqui
         }
         atualizarLetrasUtilizadas();
     }
